@@ -1,3 +1,3 @@
 # git_learning
 git_learning
-we are going to git commands.
+we are going to git commands. so add and on
